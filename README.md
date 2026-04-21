@@ -26,6 +26,14 @@ The goal is simple:
 ✨ Movies vs TV Shows comparison
 ✨ Interactive visualizations (Compass Charts)
 
+
+Tools and Technology Used:
+1. MongoDB
+2. MongoDB Compass
+3. GitHub
+
+
+   
 📂 Dataset
 This project uses an OTT dataset containing:
 
