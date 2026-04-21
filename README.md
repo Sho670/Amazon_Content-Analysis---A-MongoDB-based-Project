@@ -9,6 +9,7 @@ The project is implemented using MongoDB and MongoDB Compass, leveraging aggrega
 With the rapid growth of OTT platforms like Netflix, Amazon Prime, and Disney+, massive amounts of content data are generated every day. This project leverages the power of MongoDB and MongoDB Compass to perform in-depth data analysis on an OTT dataset.
 
 The goal is simple:
+
 ➡️ Extract insights
 
 ➡️ Identify trends
