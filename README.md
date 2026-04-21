@@ -10,10 +10,13 @@ With the rapid growth of OTT platforms like Netflix, Amazon Prime, and Disney+, 
 
 The goal is simple:
 ➡️ Extract insights
+
 ➡️ Identify trends
+
 ➡️ Visualize content distribution
 
 🚀 Key Features
+
 ✨ Data ingestion using MongoDB Compass
 ✨ Efficient NoSQL schema design
 ✨ Advanced Aggregation Pipelines
