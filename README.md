@@ -37,3 +37,39 @@ Ratings
 
 📁 Format: CSV / JSON
 📊 Source: Public datasets (e.g., Kaggle OTT datasets)
+
+
+
+
+🎯 Learning Outcomes
+Hands-on experience with NoSQL databases
+
+Mastery of MongoDB Aggregation Framework
+
+Real-world data analysis skills
+
+Data visualization using Compass
+
+🤝 Future Improvements
+🚀 Build a dashboard using web frameworks
+🚀 Integrate real-time OTT data
+🚀 Deploy using MongoDB Atlas
+🚀 Add recommendation system
+
+💡 Why This Project Matters
+This project demonstrates how modern data tools can transform raw datasets into valuable insights — a crucial skill in today’s data-driven world.
+
+⭐ Show Your Support
+If you found this project helpful:
+
+⭐ Star this repository
+
+🍴 Fork it
+
+📢 Share it
+
+📬 Contact
+Feel free to connect for collaboration or feedback!
+
+🔥 “Data is the new oil, but insights are the real fuel.”
+
