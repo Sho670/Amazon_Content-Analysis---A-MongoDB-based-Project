@@ -1,0 +1,8 @@
+# NoSQL Tool
+MongoDB Compass
+
+# Visualization
+Microsoft Power BI
+
+# Dataset
+amazon-prime_UPDATED.csv (Included as the Official Dataset)
