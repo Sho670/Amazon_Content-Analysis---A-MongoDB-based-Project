@@ -253,16 +253,21 @@ Data visualization using Compass
 🤝 Future Improvements
 
 🚀 Build a dashboard using web frameworks
+
 🚀 Integrate real-time OTT data
+
 🚀 Deploy using MongoDB Atlas
+
 🚀 Add recommendation system
 
 
 ---
 
 
-💡 Why This Project Matters
+💡 Why This Project Matters:
+
 This project demonstrates how modern data tools can transform raw datasets into valuable insights — a crucial skill in today’s data-driven world.
+
 ---
 
 ⭐ Show Your Support
