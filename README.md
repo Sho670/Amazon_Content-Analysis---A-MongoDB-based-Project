@@ -140,16 +140,18 @@ Business Insights & Reporting
 The project uses a MongoDB database named:
 
 ```bash
-companyDB
+amazonprimeDB
 ```
 
 Main collection:
 
 ```bash
-sales
+salesdocument
 ```
 
-Example MongoDB document:
+---
+
+# Example of a MongoDB document:
 
 ```json
 {
