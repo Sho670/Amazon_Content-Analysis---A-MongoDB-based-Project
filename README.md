@@ -62,6 +62,29 @@ The major objectives of this project are:
 
 ✨ Interactive visualizations (Compass Charts)
 
+---
+
+
+# MongoDB Aggregation Example
+
+Example query to calculate total revenue by region:
+
+```javascript
+db.sales.aggregate([
+  {
+    $group: {
+      _id: "$region",
+      totalRevenue: { $sum: "$revenue" }
+    }
+  }
+])
+```
+
+---
+
+
+---
+
 
 ---
 
