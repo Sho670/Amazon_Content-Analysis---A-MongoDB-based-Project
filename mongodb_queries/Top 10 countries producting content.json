@@ -1,0 +1,348 @@
+[{
+  "_id": "",
+  "count": 8922
+},
+{
+  "_id": "India",
+  "count": 293
+},
+{
+  "_id": "United States",
+  "count": 254
+},
+{
+  "_id": "United Kingdom",
+  "count": 28
+},
+{
+  "_id": "Canada",
+  "count": 16
+},
+{
+  "_id": "United Kingdom, United States",
+  "count": 12
+},
+{
+  "_id": "Spain",
+  "count": 8
+},
+{
+  "_id": "United Kingdom, France",
+  "count": 8
+},
+{
+  "_id": "Italy",
+  "count": 8
+},
+{
+  "_id": "Canada, United States",
+  "count": 7
+},
+{
+  "_id": "United States, United Kingdom",
+  "count": 6
+},
+{
+  "_id": "Germany",
+  "count": 5
+},
+{
+  "_id": "India, United States",
+  "count": 5
+},
+{
+  "_id": "Australia",
+  "count": 4
+},
+{
+  "_id": "United States, Canada",
+  "count": 4
+},
+{
+  "_id": "United States, India",
+  "count": 3
+},
+{
+  "_id": "United States, France",
+  "count": 3
+},
+{
+  "_id": "France",
+  "count": 3
+},
+{
+  "_id": "United States, Italy",
+  "count": 3
+},
+{
+  "_id": "Mexico",
+  "count": 2
+},
+{
+  "_id": "China, United States, United Kingdom",
+  "count": 2
+},
+{
+  "_id": "United States, Germany",
+  "count": 2
+},
+{
+  "_id": "Germany, Canada, United States, France, United Kingdom",
+  "count": 2
+},
+{
+  "_id": "Switzerland",
+  "count": 2
+},
+{
+  "_id": "United States, China",
+  "count": 2
+},
+{
+  "_id": "Japan",
+  "count": 2
+},
+{
+  "_id": "United Kingdom, India",
+  "count": 2
+},
+{
+  "_id": "Kosovo, Netherlands",
+  "count": 1
+},
+{
+  "_id": "Australia, Colombia, United Kingdom",
+  "count": 1
+},
+{
+  "_id": "United States, United Arab Emirates",
+  "count": 1
+},
+{
+  "_id": "Spain, United Kingdom, Italy",
+  "count": 1
+},
+{
+  "_id": "United States, United Kingdom, Kazakhstan",
+  "count": 1
+},
+{
+  "_id": "United States, Germany, Italy",
+  "count": 1
+},
+{
+  "_id": "United States, Germany, Japan, United Kingdom, Hong Kong",
+  "count": 1
+},
+{
+  "_id": "Switzerland, India",
+  "count": 1
+},
+{
+  "_id": "United States, Sweden, Norway",
+  "count": 1
+},
+{
+  "_id": "United Kingdom, Spain",
+  "count": 1
+},
+{
+  "_id": "Germany, Austria, United States",
+  "count": 1
+},
+{
+  "_id": "Belgium",
+  "count": 1
+},
+{
+  "_id": "United States, Japan",
+  "count": 1
+},
+{
+  "_id": "United Kingdom, Hungary, United States",
+  "count": 1
+},
+{
+  "_id": "United Kingdom, United States, India",
+  "count": 1
+},
+{
+  "_id": "Canada, United States, Brazil",
+  "count": 1
+},
+{
+  "_id": "United States, Mexico",
+  "count": 1
+},
+{
+  "_id": "New Zealand",
+  "count": 1
+},
+{
+  "_id": "Malaysia",
+  "count": 1
+},
+{
+  "_id": "Brazil, United States, India",
+  "count": 1
+},
+{
+  "_id": "India, United States, United Kingdom, Canada, China",
+  "count": 1
+},
+{
+  "_id": "Ireland, Belgium, France, Luxembourg, United Kingdom",
+  "count": 1
+},
+{
+  "_id": "United States, Switzerland",
+  "count": 1
+},
+{
+  "_id": "Austria",
+  "count": 1
+},
+{
+  "_id": "India, Sweden",
+  "count": 1
+},
+{
+  "_id": "United States, France, Denmark",
+  "count": 1
+},
+{
+  "_id": "Egypt",
+  "count": 1
+},
+{
+  "_id": "Italy, Spain",
+  "count": 1
+},
+{
+  "_id": "United States, United Kingdom, Germany",
+  "count": 1
+},
+{
+  "_id": "South Africa",
+  "count": 1
+},
+{
+  "_id": "Afghanistan, France",
+  "count": 1
+},
+{
+  "_id": "India, Denmark",
+  "count": 1
+},
+{
+  "_id": "Italy, Canada",
+  "count": 1
+},
+{
+  "_id": "United States, Japan, Singapore, South Korea",
+  "count": 1
+},
+{
+  "_id": "France, China, Belgium, Monaco",
+  "count": 1
+},
+{
+  "_id": "Denmark, United Kingdom, Czech Republic, Netherlands",
+  "count": 1
+},
+{
+  "_id": "Netherlands",
+  "count": 1
+},
+{
+  "_id": "Czech Republic, Germany",
+  "count": 1
+},
+{
+  "_id": "United Kingdom, France, United States",
+  "count": 1
+},
+{
+  "_id": "United States, Ireland",
+  "count": 1
+},
+{
+  "_id": "Japan, France",
+  "count": 1
+},
+{
+  "_id": "Kosovo, Albania, United States, Georgia",
+  "count": 1
+},
+{
+  "_id": "Australia, United States, Germany",
+  "count": 1
+},
+{
+  "_id": "Brazil",
+  "count": 1
+},
+{
+  "_id": "France, Belgium",
+  "count": 1
+},
+{
+  "_id": "United States, Portugal",
+  "count": 1
+},
+{
+  "_id": "United States, United Kingdom, Canada",
+  "count": 1
+},
+{
+  "_id": "Denmark, Sweden, United States",
+  "count": 1
+},
+{
+  "_id": "Poland, United States",
+  "count": 1
+},
+{
+  "_id": "United Kingdom, Canada, United States",
+  "count": 1
+},
+{
+  "_id": "Denmark, France",
+  "count": 1
+},
+{
+  "_id": "Chile, Argentina, United States",
+  "count": 1
+},
+{
+  "_id": "United States, Belgium, Denmark, France",
+  "count": 1
+},
+{
+  "_id": "France, United States",
+  "count": 1
+},
+{
+  "_id": "United States, Thailand",
+  "count": 1
+},
+{
+  "_id": "Canada, Germany",
+  "count": 1
+},
+{
+  "_id": "United States, Germany, Brazil, Italy",
+  "count": 1
+},
+{
+  "_id": "Iran, France",
+  "count": 1
+},
+{
+  "_id": "United States, Austria",
+  "count": 1
+},
+{
+  "_id": "India, South Africa, Brazil",
+  "count": 1
+}]
