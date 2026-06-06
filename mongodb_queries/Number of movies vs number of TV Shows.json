@@ -1,0 +1,1113 @@
+[{
+  "_id": {
+    "year": 1920,
+    "type": "Movie"
+  },
+  "count": 3
+},
+{
+  "_id": {
+    "year": 1922,
+    "type": "Movie"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "year": 1923,
+    "type": "Movie"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "year": 1924,
+    "type": "Movie"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "year": 1925,
+    "type": "Movie"
+  },
+  "count": 8
+},
+{
+  "_id": {
+    "year": 1926,
+    "type": "Movie"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "year": 1927,
+    "type": "Movie"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "year": 1929,
+    "type": "Movie"
+  },
+  "count": 4
+},
+{
+  "_id": {
+    "year": 1930,
+    "type": "Movie"
+  },
+  "count": 5
+},
+{
+  "_id": {
+    "year": 1931,
+    "type": "Movie"
+  },
+  "count": 3
+},
+{
+  "_id": {
+    "year": 1932,
+    "type": "Movie"
+  },
+  "count": 7
+},
+{
+  "_id": {
+    "year": 1932,
+    "type": "TV Show"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "year": 1933,
+    "type": "Movie"
+  },
+  "count": 5
+},
+{
+  "_id": {
+    "year": 1934,
+    "type": "Movie"
+  },
+  "count": 12
+},
+{
+  "_id": {
+    "year": 1935,
+    "type": "Movie"
+  },
+  "count": 15
+},
+{
+  "_id": {
+    "year": 1936,
+    "type": "Movie"
+  },
+  "count": 28
+},
+{
+  "_id": {
+    "year": 1936,
+    "type": "TV Show"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "year": 1937,
+    "type": "Movie"
+  },
+  "count": 24
+},
+{
+  "_id": {
+    "year": 1938,
+    "type": "Movie"
+  },
+  "count": 15
+},
+{
+  "_id": {
+    "year": 1939,
+    "type": "Movie"
+  },
+  "count": 21
+},
+{
+  "_id": {
+    "year": 1940,
+    "type": "Movie"
+  },
+  "count": 16
+},
+{
+  "_id": {
+    "year": 1941,
+    "type": "Movie"
+  },
+  "count": 22
+},
+{
+  "_id": {
+    "year": 1942,
+    "type": "Movie"
+  },
+  "count": 16
+},
+{
+  "_id": {
+    "year": 1943,
+    "type": "Movie"
+  },
+  "count": 21
+},
+{
+  "_id": {
+    "year": 1944,
+    "type": "Movie"
+  },
+  "count": 12
+},
+{
+  "_id": {
+    "year": 1945,
+    "type": "Movie"
+  },
+  "count": 13
+},
+{
+  "_id": {
+    "year": 1945,
+    "type": "TV Show"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "year": 1946,
+    "type": "Movie"
+  },
+  "count": 20
+},
+{
+  "_id": {
+    "year": 1946,
+    "type": "TV Show"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "year": 1947,
+    "type": "Movie"
+  },
+  "count": 22
+},
+{
+  "_id": {
+    "year": 1948,
+    "type": "Movie"
+  },
+  "count": 15
+},
+{
+  "_id": {
+    "year": 1949,
+    "type": "Movie"
+  },
+  "count": 14
+},
+{
+  "_id": {
+    "year": 1950,
+    "type": "Movie"
+  },
+  "count": 21
+},
+{
+  "_id": {
+    "year": 1951,
+    "type": "Movie"
+  },
+  "count": 18
+},
+{
+  "_id": {
+    "year": 1952,
+    "type": "Movie"
+  },
+  "count": 16
+},
+{
+  "_id": {
+    "year": 1953,
+    "type": "Movie"
+  },
+  "count": 21
+},
+{
+  "_id": {
+    "year": 1954,
+    "type": "Movie"
+  },
+  "count": 12
+},
+{
+  "_id": {
+    "year": 1954,
+    "type": "TV Show"
+  },
+  "count": 3
+},
+{
+  "_id": {
+    "year": 1955,
+    "type": "Movie"
+  },
+  "count": 8
+},
+{
+  "_id": {
+    "year": 1955,
+    "type": "TV Show"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "year": 1956,
+    "type": "Movie"
+  },
+  "count": 17
+},
+{
+  "_id": {
+    "year": 1957,
+    "type": "Movie"
+  },
+  "count": 5
+},
+{
+  "_id": {
+    "year": 1958,
+    "type": "Movie"
+  },
+  "count": 15
+},
+{
+  "_id": {
+    "year": 1959,
+    "type": "Movie"
+  },
+  "count": 16
+},
+{
+  "_id": {
+    "year": 1959,
+    "type": "TV Show"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "year": 1960,
+    "type": "Movie"
+  },
+  "count": 11
+},
+{
+  "_id": {
+    "year": 1960,
+    "type": "TV Show"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "year": 1961,
+    "type": "Movie"
+  },
+  "count": 10
+},
+{
+  "_id": {
+    "year": 1961,
+    "type": "TV Show"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "year": 1962,
+    "type": "Movie"
+  },
+  "count": 11
+},
+{
+  "_id": {
+    "year": 1962,
+    "type": "TV Show"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "year": 1963,
+    "type": "Movie"
+  },
+  "count": 18
+},
+{
+  "_id": {
+    "year": 1963,
+    "type": "TV Show"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "year": 1964,
+    "type": "Movie"
+  },
+  "count": 13
+},
+{
+  "_id": {
+    "year": 1965,
+    "type": "Movie"
+  },
+  "count": 9
+},
+{
+  "_id": {
+    "year": 1966,
+    "type": "Movie"
+  },
+  "count": 10
+},
+{
+  "_id": {
+    "year": 1967,
+    "type": "Movie"
+  },
+  "count": 15
+},
+{
+  "_id": {
+    "year": 1967,
+    "type": "TV Show"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "year": 1968,
+    "type": "Movie"
+  },
+  "count": 18
+},
+{
+  "_id": {
+    "year": 1968,
+    "type": "TV Show"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "year": 1969,
+    "type": "Movie"
+  },
+  "count": 14
+},
+{
+  "_id": {
+    "year": 1969,
+    "type": "TV Show"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "year": 1970,
+    "type": "Movie"
+  },
+  "count": 25
+},
+{
+  "_id": {
+    "year": 1971,
+    "type": "Movie"
+  },
+  "count": 16
+},
+{
+  "_id": {
+    "year": 1972,
+    "type": "Movie"
+  },
+  "count": 19
+},
+{
+  "_id": {
+    "year": 1972,
+    "type": "TV Show"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "year": 1973,
+    "type": "Movie"
+  },
+  "count": 17
+},
+{
+  "_id": {
+    "year": 1974,
+    "type": "Movie"
+  },
+  "count": 21
+},
+{
+  "_id": {
+    "year": 1974,
+    "type": "TV Show"
+  },
+  "count": 3
+},
+{
+  "_id": {
+    "year": 1975,
+    "type": "Movie"
+  },
+  "count": 26
+},
+{
+  "_id": {
+    "year": 1975,
+    "type": "TV Show"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "year": 1976,
+    "type": "Movie"
+  },
+  "count": 12
+},
+{
+  "_id": {
+    "year": 1977,
+    "type": "Movie"
+  },
+  "count": 14
+},
+{
+  "_id": {
+    "year": 1978,
+    "type": "Movie"
+  },
+  "count": 18
+},
+{
+  "_id": {
+    "year": 1978,
+    "type": "TV Show"
+  },
+  "count": 5
+},
+{
+  "_id": {
+    "year": 1979,
+    "type": "Movie"
+  },
+  "count": 15
+},
+{
+  "_id": {
+    "year": 1979,
+    "type": "TV Show"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "year": 1980,
+    "type": "Movie"
+  },
+  "count": 25
+},
+{
+  "_id": {
+    "year": 1981,
+    "type": "Movie"
+  },
+  "count": 19
+},
+{
+  "_id": {
+    "year": 1981,
+    "type": "TV Show"
+  },
+  "count": 3
+},
+{
+  "_id": {
+    "year": 1982,
+    "type": "Movie"
+  },
+  "count": 17
+},
+{
+  "_id": {
+    "year": 1983,
+    "type": "Movie"
+  },
+  "count": 16
+},
+{
+  "_id": {
+    "year": 1983,
+    "type": "TV Show"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "year": 1984,
+    "type": "Movie"
+  },
+  "count": 25
+},
+{
+  "_id": {
+    "year": 1984,
+    "type": "TV Show"
+  },
+  "count": 3
+},
+{
+  "_id": {
+    "year": 1985,
+    "type": "Movie"
+  },
+  "count": 26
+},
+{
+  "_id": {
+    "year": 1985,
+    "type": "TV Show"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "year": 1986,
+    "type": "Movie"
+  },
+  "count": 36
+},
+{
+  "_id": {
+    "year": 1986,
+    "type": "TV Show"
+  },
+  "count": 4
+},
+{
+  "_id": {
+    "year": 1987,
+    "type": "Movie"
+  },
+  "count": 32
+},
+{
+  "_id": {
+    "year": 1987,
+    "type": "TV Show"
+  },
+  "count": 1
+},
+{
+  "_id": {
+    "year": 1988,
+    "type": "Movie"
+  },
+  "count": 42
+},
+{
+  "_id": {
+    "year": 1988,
+    "type": "TV Show"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "year": 1989,
+    "type": "Movie"
+  },
+  "count": 39
+},
+{
+  "_id": {
+    "year": 1989,
+    "type": "TV Show"
+  },
+  "count": 6
+},
+{
+  "_id": {
+    "year": 1990,
+    "type": "Movie"
+  },
+  "count": 36
+},
+{
+  "_id": {
+    "year": 1990,
+    "type": "TV Show"
+  },
+  "count": 4
+},
+{
+  "_id": {
+    "year": 1991,
+    "type": "Movie"
+  },
+  "count": 42
+},
+{
+  "_id": {
+    "year": 1991,
+    "type": "TV Show"
+  },
+  "count": 3
+},
+{
+  "_id": {
+    "year": 1992,
+    "type": "Movie"
+  },
+  "count": 52
+},
+{
+  "_id": {
+    "year": 1992,
+    "type": "TV Show"
+  },
+  "count": 4
+},
+{
+  "_id": {
+    "year": 1993,
+    "type": "Movie"
+  },
+  "count": 54
+},
+{
+  "_id": {
+    "year": 1993,
+    "type": "TV Show"
+  },
+  "count": 3
+},
+{
+  "_id": {
+    "year": 1994,
+    "type": "Movie"
+  },
+  "count": 60
+},
+{
+  "_id": {
+    "year": 1994,
+    "type": "TV Show"
+  },
+  "count": 3
+},
+{
+  "_id": {
+    "year": 1995,
+    "type": "Movie"
+  },
+  "count": 62
+},
+{
+  "_id": {
+    "year": 1995,
+    "type": "TV Show"
+  },
+  "count": 10
+},
+{
+  "_id": {
+    "year": 1996,
+    "type": "Movie"
+  },
+  "count": 60
+},
+{
+  "_id": {
+    "year": 1996,
+    "type": "TV Show"
+  },
+  "count": 2
+},
+{
+  "_id": {
+    "year": 1997,
+    "type": "Movie"
+  },
+  "count": 53
+},
+{
+  "_id": {
+    "year": 1997,
+    "type": "TV Show"
+  },
+  "count": 6
+},
+{
+  "_id": {
+    "year": 1998,
+    "type": "Movie"
+  },
+  "count": 52
+},
+{
+  "_id": {
+    "year": 1998,
+    "type": "TV Show"
+  },
+  "count": 7
+},
+{
+  "_id": {
+    "year": 1999,
+    "type": "Movie"
+  },
+  "count": 55
+},
+{
+  "_id": {
+    "year": 1999,
+    "type": "TV Show"
+  },
+  "count": 9
+},
+{
+  "_id": {
+    "year": 2000,
+    "type": "Movie"
+  },
+  "count": 72
+},
+{
+  "_id": {
+    "year": 2000,
+    "type": "TV Show"
+  },
+  "count": 9
+},
+{
+  "_id": {
+    "year": 2001,
+    "type": "Movie"
+  },
+  "count": 73
+},
+{
+  "_id": {
+    "year": 2001,
+    "type": "TV Show"
+  },
+  "count": 9
+},
+{
+  "_id": {
+    "year": 2002,
+    "type": "Movie"
+  },
+  "count": 83
+},
+{
+  "_id": {
+    "year": 2002,
+    "type": "TV Show"
+  },
+  "count": 9
+},
+{
+  "_id": {
+    "year": 2003,
+    "type": "Movie"
+  },
+  "count": 68
+},
+{
+  "_id": {
+    "year": 2003,
+    "type": "TV Show"
+  },
+  "count": 13
+},
+{
+  "_id": {
+    "year": 2004,
+    "type": "Movie"
+  },
+  "count": 89
+},
+{
+  "_id": {
+    "year": 2004,
+    "type": "TV Show"
+  },
+  "count": 14
+},
+{
+  "_id": {
+    "year": 2005,
+    "type": "Movie"
+  },
+  "count": 91
+},
+{
+  "_id": {
+    "year": 2005,
+    "type": "TV Show"
+  },
+  "count": 21
+},
+{
+  "_id": {
+    "year": 2006,
+    "type": "Movie"
+  },
+  "count": 120
+},
+{
+  "_id": {
+    "year": 2006,
+    "type": "TV Show"
+  },
+  "count": 18
+},
+{
+  "_id": {
+    "year": 2007,
+    "type": "Movie"
+  },
+  "count": 157
+},
+{
+  "_id": {
+    "year": 2007,
+    "type": "TV Show"
+  },
+  "count": 19
+},
+{
+  "_id": {
+    "year": 2008,
+    "type": "Movie"
+  },
+  "count": 138
+},
+{
+  "_id": {
+    "year": 2008,
+    "type": "TV Show"
+  },
+  "count": 33
+},
+{
+  "_id": {
+    "year": 2009,
+    "type": "Movie"
+  },
+  "count": 117
+},
+{
+  "_id": {
+    "year": 2009,
+    "type": "TV Show"
+  },
+  "count": 32
+},
+{
+  "_id": {
+    "year": 2010,
+    "type": "Movie"
+  },
+  "count": 152
+},
+{
+  "_id": {
+    "year": 2010,
+    "type": "TV Show"
+  },
+  "count": 34
+},
+{
+  "_id": {
+    "year": 2011,
+    "type": "Movie"
+  },
+  "count": 212
+},
+{
+  "_id": {
+    "year": 2011,
+    "type": "TV Show"
+  },
+  "count": 40
+},
+{
+  "_id": {
+    "year": 2012,
+    "type": "Movie"
+  },
+  "count": 197
+},
+{
+  "_id": {
+    "year": 2012,
+    "type": "TV Show"
+  },
+  "count": 55
+},
+{
+  "_id": {
+    "year": 2013,
+    "type": "Movie"
+  },
+  "count": 227
+},
+{
+  "_id": {
+    "year": 2013,
+    "type": "TV Show"
+  },
+  "count": 62
+},
+{
+  "_id": {
+    "year": 2014,
+    "type": "Movie"
+  },
+  "count": 295
+},
+{
+  "_id": {
+    "year": 2014,
+    "type": "TV Show"
+  },
+  "count": 96
+},
+{
+  "_id": {
+    "year": 2015,
+    "type": "Movie"
+  },
+  "count": 282
+},
+{
+  "_id": {
+    "year": 2015,
+    "type": "TV Show"
+  },
+  "count": 96
+},
+{
+  "_id": {
+    "year": 2016,
+    "type": "Movie"
+  },
+  "count": 402
+},
+{
+  "_id": {
+    "year": 2016,
+    "type": "TV Show"
+  },
+  "count": 119
+},
+{
+  "_id": {
+    "year": 2017,
+    "type": "Movie"
+  },
+  "count": 404
+},
+{
+  "_id": {
+    "year": 2017,
+    "type": "TV Show"
+  },
+  "count": 158
+},
+{
+  "_id": {
+    "year": 2018,
+    "type": "Movie"
+  },
+  "count": 438
+},
+{
+  "_id": {
+    "year": 2018,
+    "type": "TV Show"
+  },
+  "count": 185
+},
+{
+  "_id": {
+    "year": 2019,
+    "type": "Movie"
+  },
+  "count": 730
+},
+{
+  "_id": {
+    "year": 2019,
+    "type": "TV Show"
+  },
+  "count": 199
+},
+{
+  "_id": {
+    "year": 2020,
+    "type": "Movie"
+  },
+  "count": 736
+},
+{
+  "_id": {
+    "year": 2020,
+    "type": "TV Show"
+  },
+  "count": 226
+},
+{
+  "_id": {
+    "year": 2021,
+    "type": "Movie"
+  },
+  "count": 1139
+},
+{
+  "_id": {
+    "year": 2021,
+    "type": "TV Show"
+  },
+  "count": 303
+}]
